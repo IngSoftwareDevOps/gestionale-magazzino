@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 usare github dekstop semplifica la vita
+=======
+testo a piacere
+>>>>>>> 2fc5215 (Added simple text on programma.txt)
