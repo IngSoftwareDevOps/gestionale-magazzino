@@ -35,7 +35,7 @@ def main():
                 num1 = float(input("Inserisci il primo numero: "))
                 num2 = float(input("Inserisci il secondo numero: "))
             except ValueError:
-                print("Errore: devi inserire un numero valido.")scelta
+                print("Errore: devi inserire un numero valido.")
                 continue
 
             if choice == '1':
